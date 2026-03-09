@@ -1,1 +1,12 @@
 # python-internship-_codtech
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: T.Karthisha
+
+INTERN ID: CTISAK79
+
+DOMAIN: Python programming
+
+DURATION: 8 WEEKS
+
+MENTOR: NEELA SANTOSH KUMAR
