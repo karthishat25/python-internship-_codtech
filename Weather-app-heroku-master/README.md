@@ -8,7 +8,7 @@
 
 </p>
 
-<h2 align="center"><a href="https://jayvardhan-weather-app.herokuapp.com/">Demo link</a> <a href="https://www.crio.do/projects/python-weather-app"/>Tutorial link</a></h2>
+<h2 align="center"><a href="https:/karthisha-weather-app.herokuapp.com/">Demo link</a> <a href="https://www.crio.do/projects/python-weather-app"/>Tutorial link</a></h2>
 
 
 ## :fire: Features
