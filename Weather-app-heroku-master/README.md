@@ -1,14 +1,4 @@
-<p align="center">
-    <a href="https://karthisha.tech">
-	<img src="https://user-images.githubusercontent.com/39644109/110592126-e6fc2700-819f-11eb-9ca5-8827418963c7.png" width=80%/>
-</a>
-    
-<h2 align="center">Weather app heroku</h2>
-<h4 align="center">A web application to display weather updates<h4>
 
-</p>
-
-<h2 align="center"><a href="https:/karthisha-weather-app.herokuapp.com/">Demo link</a> <a href="https://www.crio.do/projects/python-weather-app"/>Tutorial link</a></h2>
 
 
 ## :fire: Features
